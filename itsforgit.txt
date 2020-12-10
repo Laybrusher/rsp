@@ -3,9 +3,4 @@ git init
 git log
 git add .
 git status
-##after changes check.
-git commit -m "new file"
-##git status nonprefer but usually do
-git branch -M main
-git remote add origin "url"
-git new files
+REFUSE
